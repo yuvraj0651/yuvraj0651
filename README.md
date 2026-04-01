@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Ganshi</h1>
 <h3 align="center">A passionate UI-focused Frontend Developer with 2.5 years of experience in building interactive and modern websites.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yuvraj0651&label=Profile%20views&color=0e75b6&style=flat" alt="yuvraj0651" />
-</p>
-
 <!-- Professional coding GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" alt="Professional Coding"/>
