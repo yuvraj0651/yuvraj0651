@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Ganshi</h1>
-<h3 align="center">A passionate UI-focused Frontend Developer with 2.5 years of experience in building interactive and modern websites.</h3>
+<h3 align="center">Frontend Engineer | React.js Developer | 2.5+ Years Experience | Building Scalable, Interactive Web Apps</h3>
 
 <!-- Professional coding GIF -->
 <p align="center">
@@ -9,47 +9,47 @@
 ---
 
 ### 🌱 Currently Learning
-I'm exploring **Next.js** to build better-performing and SEO-friendly React applications.
+Exploring **Next.js** for better-performing, SEO-friendly React applications.
 
 ### 👯 Looking to Collaborate
-Open to **React.js projects** where I can create interactive and user-friendly UI.  
+Open to **React.js & Frontend projects** where I can deliver **interactive, responsive, and user-friendly UIs**.   
 
-### 👨‍💻 Projects
-All my projects are available at [GitHub](https://github.com/yuvraj0651)
+### 👨‍💻 Featured Projects
+- **Resume Builder App** – Live preview, PDF export, Redux state management  
+- **CMS/Admin Dashboards** – Dynamic routing, optimized rendering, real-world client requirements  
+- **Food Ordering Web App** – Multi-domain scalable frontend solution  
+- Explore all projects at [GitHub](https://github.com/yuvraj0651)
 
 ### 💬 Ask Me About
-**React.js, JavaScript, Frontend UI Development, Responsive Design**
+**React.js, Redux Toolkit, JavaScript (ES6+), Tailwind CSS, Responsive Design, Frontend Architecture**
 
 ### 📫 How to Reach Me
-**Email:** yuvraj0651@gmail.com  
-**LinkedIn:** [linkedin.com/in/yuvraj-ganshi](https://www.linkedin.com/in/yuvraj-ganshi-61188922b)  
+- **Email:** yuvraj0651@gmail.com  
+- **LinkedIn:** [linkedin.com/in/yuvraj-ganshi](https://www.linkedin.com/in/yuvraj-ganshi-61188922b) 
 
 ### ⚡ Fun Fact
-I believe **good UI makes users trust the product instantly**.
+I believe **good UI builds trust instantly**.
 
 ---
 
 ### Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/yuvraj-ganshi" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/></a>
-  <a href="https://twitter.com/yuvraj0651" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" alt="Twitter" width="30" height="30"/></a>
-  <a href="https://www.instagram.com/yuvraj0651" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" alt="Instagram" width="30" height="30"/></a>
-  <a href="https://github.com/yuvraj0651" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="30" height="30"/></a>
+  <a href="https://linkedin.com/in/yuvraj-ganshi" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="30"/></a>
+  <a href="https://twitter.com/yuvraj0651" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/twitter.svg" width="30"/></a>
+  <a href="https://www.instagram.com/yuvraj0651" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/instagram.svg" width="30"/></a>
+  <a href="https://github.com/yuvraj0651" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" width="30"/></a>
 </p>
 
 ---
 
-### Languages and Tools
+### Languages & Tools
 <p align="left">
-  <a href="https://babeljs.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
+  <a href="https://redux.js.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
+  <a href="https://getbootstrap.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
+  <a href="https://www.javascript.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
 </p>
