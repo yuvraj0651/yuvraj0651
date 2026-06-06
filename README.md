@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Ganshi</h1>
-<h3 align="center">Frontend Engineer | React.js Developer | 2.5+ Years Experience | Building Scalable, Interactive Web Apps</h3>
+<h3 align="center">
+Frontend Engineer | React.js Developer | Building Scalable, Interactive Web Applications
+</h3>
 
 <!-- Professional coding GIF -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250" alt="Professional Coding"/>
 </p>
+
+---
+
+Frontend Engineer passionate about building scalable,
+responsive and user-centric web applications using React.js.
+
+Experienced in developing modern CMS platforms,
+Admin Dashboards, E-Commerce Solutions,
+and production-ready frontend architectures.
 
 ---
 
@@ -15,9 +26,21 @@ Exploring **Next.js** for better-performing, SEO-friendly React applications.
 Open to **React.js & Frontend projects** where I can deliver **interactive, responsive, and user-friendly UIs**.   
 
 ### 👨‍💻 Featured Projects
-- **Resume Builder App** – Live preview, PDF export, Redux state management  
-- **CMS/Admin Dashboards** – Dynamic routing, optimized rendering, real-world client requirements  
-- **Food Ordering Web App** – Multi-domain scalable frontend solution  
+🔹 Resume Builder App
+- Live Resume Preview
+- PDF Export Functionality
+- Redux Toolkit State Management
+
+🔹 Eco Shopnexa CMS
+- Enterprise Admin Dashboard
+- Content Management System
+- Analytics & Role Based Access
+
+🔹 Food Ordering Platform
+- Responsive UI
+- Dynamic Product Rendering
+- Scalable Component Architecture
+
 - Explore all projects at [GitHub](https://github.com/yuvraj0651)
 
 ### 💬 Ask Me About
